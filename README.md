@@ -32,15 +32,11 @@
 
 ### 👩‍💻 Languages & Frameworks
 
-<a href="https://dotnettutorials.net/lesson/csharp-tutorials/" target="_blank">
+<a href="https://dotnettutorials.net/course/csharp-dot-net-tutorials/" target="_blank">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
 </a>
 
-<a href="https://dotnettutorials.net/lesson/net-framework-tutorial/" target="_blank">
-  <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
-</a>
-
-<a href="https://dotnettutorials.net/lesson/asp-net-core-tutorials/" target="_blank">
+<a href="https://dotnettutorials.net/course/asp-net-core-tutorials/" target="_blank">
   <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=.net&logoColor=white" />
 </a>
 
@@ -48,39 +44,38 @@
 
 ### 🛢️ Databases
 
-<a href="https://dotnettutorials.net/lesson/sql-server-tutorial-for-beginners/" target="_blank">
+<a href="https://dotnettutorials.net/course/ms-sql-server/" target="_blank">
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
 </a>
 
-<a href="https://dotnettutorials.net/lesson/postgresql-tutorial/" target="_blank">
+<a href="https://www.postgresql.org/docs/" target="_blank">
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 </a>
 
-<a href="https://dotnettutorials.net/lesson/mysql-tutorial/" target="_blank">
+<a href="https://dotnettutorials.net/course/mysql-tutorials-for-beginners-and-professionals/" target="_blank">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </a>
 
-<a href="https://dotnettutorials.net/lesson/mongodb-tutorial/" target="_blank">
+<a href="https://dotnettutorials.net/course/mongodb-tutorials/" target="_blank">
   <img src="https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white" />
 </a>
 
 ---
 
 ### ☁️ Cloud & DevOps
-
-<a href="https://dotnettutorials.net/lesson/microsoft-azure-tutorial/" target="_blank">
+<a href="https://learn.microsoft.com/azure/" target="_blank">
   <img src="https://img.shields.io/badge/Azure-0072C6?style=for-the-badge&logo=microsoftazure&logoColor=white" />
 </a>
 
-<a href="https://dotnettutorials.net/lesson/redis-tutorial/" target="_blank">
+<a href="https://redis.io/docs/" target="_blank">
   <img src="https://img.shields.io/badge/Redis-DD0031?style=for-the-badge&logo=redis&logoColor=white" />
 </a>
 
-<a href="https://dotnettutorials.net/lesson/apache-web-server-tutorial/" target="_blank">
+<a href="https://httpd.apache.org/docs/" target="_blank">
   <img src="https://img.shields.io/badge/Apache-D42029?style=for-the-badge&logo=apache&logoColor=white" />
 </a>
 
-<a href="https://dotnettutorials.net/lesson/gitlab-tutorial/" target="_blank">
+<a href="https://docs.gitlab.com/" target="_blank">
   <img src="https://img.shields.io/badge/GitLab-181717?style=for-the-badge&logo=gitlab&logoColor=white" />
 </a>
 
