@@ -31,25 +31,55 @@
 ## 💻 Tech Stack
 
 ### 👩‍💻 Languages & Frameworks
-[![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://learn.microsoft.com/dotnet/csharp/)
-[![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)](https://dotnet.microsoft.com/)
-[![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=.net&logoColor=white)](https://learn.microsoft.com/aspnet/core/)
+<a href="https://learn.microsoft.com/dotnet/csharp/" target="_blank">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+</a>
+
+<a href="https://dotnet.microsoft.com/" target="_blank">
+  <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
+</a>
+
+<a href="https://learn.microsoft.com/aspnet/core/" target="_blank">
+  <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=.net&logoColor=white" />
+</a>
 
 ---
 
 ### 🛢️ Databases
-[![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)](https://learn.microsoft.com/sql/)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/docs/)
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://dev.mysql.com/doc/)
-[![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/docs/)
+<a href="https://learn.microsoft.com/sql/" target="_blank">
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+</a>
+
+<a href="https://www.postgresql.org/docs/" target="_blank">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+</a>
+
+<a href="https://dev.mysql.com/doc/" target="_blank">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</a>
+
+<a href="https://www.mongodb.com/docs/" target="_blank">
+  <img src="https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white" />
+</a>
 
 ---
 
 ### ☁️ Cloud & DevOps
-[![Azure](https://img.shields.io/badge/Azure-0072C6?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/azure/)
-[![Redis](https://img.shields.io/badge/Redis-DD0031?style=for-the-badge&logo=redis&logoColor=white)](https://redis.io/docs/)
-[![Apache](https://img.shields.io/badge/Apache-D42029?style=for-the-badge&logo=apache&logoColor=white)](https://httpd.apache.org/docs/)
-[![GitLab](https://img.shields.io/badge/GitLab-181717?style=for-the-badge&logo=gitlab&logoColor=white)](https://docs.gitlab.com/)
+<a href="https://learn.microsoft.com/azure/" target="_blank">
+  <img src="https://img.shields.io/badge/Azure-0072C6?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+</a>
+
+<a href="https://redis.io/docs/" target="_blank">
+  <img src="https://img.shields.io/badge/Redis-DD0031?style=for-the-badge&logo=redis&logoColor=white" />
+</a>
+
+<a href="https://httpd.apache.org/docs/" target="_blank">
+  <img src="https://img.shields.io/badge/Apache-D42029?style=for-the-badge&logo=apache&logoColor=white" />
+</a>
+
+<a href="https://docs.gitlab.com/" target="_blank">
+  <img src="https://img.shields.io/badge/GitLab-181717?style=for-the-badge&logo=gitlab&logoColor=white" />
+</a>
 
 ---
 
